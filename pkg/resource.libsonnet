@@ -1,0 +1,5 @@
+{
+  new():: {
+    dummy: 'resource-sample',
+  },
+}
